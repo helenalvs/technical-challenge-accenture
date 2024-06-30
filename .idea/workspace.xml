@@ -68,6 +68,10 @@
       <change beforePath="$PROJECT_DIR$/../../lib/main.dart" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../pubspec.lock" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/io/cucumber/helenalves/scenario.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/io/cucumber/helenalves/scenario.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/io/cucumber/helenalves/scenario.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/io/cucumber/helenalves/scenario.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../test/widget_test.dart" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../web/favicon.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../web/icons/Icon-192.png" beforeDir="false" />
@@ -126,6 +130,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
@@ -326,7 +333,7 @@
       <option name="presentableId" value="Default" />
       <updated>1719679710672</updated>
       <workItem from="1719754157491" duration="165000" />
-      <workItem from="1719754568579" duration="356000" />
+      <workItem from="1719754568579" duration="18121000" />
     </task>
     <servers />
   </component>

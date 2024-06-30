@@ -18,8 +18,8 @@ Feature: Access the Tricentis site and fill in all fields in the Enter Vehicle D
 	Scenario: Fill in Enter Insurance Data fields
 		Given I enter First Name "Helen"
 		And I enter Last Name "Alves"
-		And I fill in Date of Birth "02/24/1996"
-		And I specify Gender "Male"
+		And I fill in Date of Birth "10/08/1996"
+		And I specify Gender "Female"
 		And I fill in Street Address "Av. Janga"
 		And I select Country: "Brazil"
 		And I fill in Zip Code "53080500"
@@ -42,7 +42,7 @@ Feature: Access the Tricentis site and fill in all fields in the Enter Vehicle D
 		Given I select the price option "selectsilver"
 		Then Finish price step
 
-	Scenario: Fill fields in Select Price Option section
+	Scenario: Fill fields in Select Send Quote section
 		Given that I enter the E-mail: "helen@gmail.com"
 		And I fill in the Phone field: "81999995555"
 		And I fill in the Username field: "Helen"
