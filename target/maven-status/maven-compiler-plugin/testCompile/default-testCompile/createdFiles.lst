@@ -1,0 +1,6 @@
+io\cucumber\helenalves\automobileInsurance\VehicleDataStep.class
+io\cucumber\helenalves\automobileInsurance\InsuranceDataStep.class
+io\cucumber\helenalves\RunCucumberTest.class
+io\cucumber\helenalves\automobileInsurance\SendQuoteStep.class
+io\cucumber\helenalves\automobileInsurance\PriceOptionStep.class
+io\cucumber\helenalves\automobileInsurance\ProductDataStep.class

@@ -1,0 +1,6 @@
+io\cumcumber\helenalves\pageObject\SendQuotePage.class
+io\cumcumber\helenalves\pageObject\VehicleDataPage.class
+io\cumcumber\helenalves\pageObject\PriceOptionPage.class
+io\cumcumber\helenalves\pageObject\InsuranceDataPage.class
+io\cumcumber\helenalves\pageObject\ProductDataPage.class
+io\cumcumber\helenalves\CommandProcessSelenium.class
